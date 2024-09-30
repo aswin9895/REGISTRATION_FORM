@@ -1,0 +1,24 @@
+.verticalLine{
+    border-left: solid 3px black;
+    height: 300px;
+    width: 50%;
+    margin-left: 50%;
+    margin-top: 15%;
+}
+.verticalLine2{
+    border-left: solid 3px black;
+    height: 220px;
+    width: 50%;
+    margin-left: 50%;
+    margin-top: 25%;
+}
+.photo{
+    width: 150px;
+    height: 150px;
+    border: solid 2px black;
+}
+.signature{
+    width: 200px;
+    height: 70px;
+    border: solid 2px black;
+}
