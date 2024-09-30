@@ -96,6 +96,7 @@ const Filling = () => {
       sessionStorage.setItem("sessionOpt2", opt2)
       sessionStorage.setItem("sessionOpt3", opt3)
       sessionStorage.setItem("sessionOpt4", opt4)
+      alert("Submitted Form Successfully!!!")
       navigate("/result")
     } else {
       alert("please fill")
